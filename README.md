@@ -33,3 +33,8 @@ Key Outputs:
 Visualized sentiment distribution.
 
 Analyzed sentiment scores, highlighting the most positive and negative comments.
+
+# OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/23bb24d9-85dd-471f-b2ad-aea709fd6ae3)
+![Image](https://github.com/user-attachments/assets/5be39193-3675-4c0c-9997-c7b3d2cca942)
